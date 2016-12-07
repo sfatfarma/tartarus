@@ -1,0 +1,20 @@
+{
+    "name" : "Tartarus Crawl Control Plugin for WordPress",
+    "slug" : "tartarus-crawl-control",
+    "homepage" : "https://codecanyon.net/user/kisded/portfolio",
+    "download_url" : "https://rawgit.com/sfatfarma/tartarus/master/tartarus-crawl-control.zip",
+    
+    "version" : "1.0",
+    "requires" : "2.7",
+    "tested" : "4.7",
+    "last_updated" : "2016-12-20",
+    
+    "author" : "kisded",
+    "author_homepage" : "https://codecanyon.net/user/kisded/portfolio",
+    
+    "sections" : 
+    {
+        "description" : "<p>This plugin puts you in control of your website's crawl rate by bots and spiders.</p>",
+        "changelog" : "<strong>Version 1.0 Release Date 2016-11-11</strong> <ul> <li>First version released!</li> </ul>"
+    }
+}
