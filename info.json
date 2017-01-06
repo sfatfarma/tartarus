@@ -1,20 +1,20 @@
 {
     "name" : "Tartarus Crawl Control Plugin for WordPress",
     "slug" : "tartarus-crawl-control",
-    "homepage" : "https://codecanyon.net/user/kisded/portfolio",
+    "homepage" : "https://codecanyon.net/user/coderevolution/portfolio",
     "download_url" : "https://rawgit.com/sfatfarma/tartarus/master/tartarus-crawl-control.zip",
     
-    "version" : "1.0",
+    "version" : "1.1",
     "requires" : "2.7",
     "tested" : "4.7",
-    "last_updated" : "2016-12-20",
+    "last_updated" : "2017-1-6",
     
-    "author" : "kisded",
-    "author_homepage" : "https://codecanyon.net/user/kisded/portfolio",
+    "author" : "coderevolution",
+    "author_homepage" : "https://codecanyon.net/user/coderevolution/portfolio",
     
     "sections" : 
     {
         "description" : "<p>This plugin puts you in control of your website's crawl rate by bots and spiders.</p>",
-        "changelog" : "<strong>Version 1.0 Release Date 2016-11-11</strong> <ul> <li>First version released!</li> </ul>"
+        "changelog" : "<strong>Version 1.0 Release Date 2016-11-11</strong> <ul> <li>First version released!</li> </ul><strong>Version 1.1 Release Date 2017-01-06</strong> <ul> <li>Fixed major bug in agent detection.</li> </ul>"
     }
 }
